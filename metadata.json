@@ -1,0 +1,7 @@
+{
+  "name": "Live Object Identifier",
+  "description": "A real-time object identification application using your camera and the Gemini API for extreme accuracy. Point your camera at an object, and the AI will tell you what it is.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
